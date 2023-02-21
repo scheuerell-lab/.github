@@ -10,7 +10,7 @@ Using our knowledge and skills to help solve real-world problems.
 
 ## :telescope: Vision
 
-Our vision is to better understand and manage aquatic ecosystems through the integration of data, analysis, and communication.
+Better understanding and management of aquatic ecosystems through the integration of data, analysis, and communication.
 
 
 ## :merperson: Values
